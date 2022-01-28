@@ -1,0 +1,1 @@
+This is a test project to create a single page application using react-router to configure routes
